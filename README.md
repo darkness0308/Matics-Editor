@@ -43,8 +43,8 @@ Ensure you have **Python 3.8+** installed. You may also need `gcc`, `g++`, and `
 Clone the repository and install required packages:  
 
 ```sh
-git clone https://github.com/your-repo/matics-editor.git  
-cd matics-editor  
+git clone https://github.com/darkness0308/Matics-Editor.git
+cd Matics-Editor  
 pip install -r requirements.txt
 ```
 
