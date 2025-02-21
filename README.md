@@ -30,7 +30,7 @@ Matics Editor is a real-time AI-enhanced code editor and debugger built using **
 ![Matics Editor - Web Frameworks](images/Output_3.jpg)  
 
 ### Matics Editor - Model Selection 
-![Matics Editor - Model Selection](iimages/Model_selection.jpg)  
+![Matics Editor - Model Selection](images/Model_selection.jpg)  
 
 ---
 
